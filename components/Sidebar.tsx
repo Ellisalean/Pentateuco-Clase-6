@@ -127,7 +127,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeLessonId, onSelectLesson
       </div>
       
       <div className="p-4 bg-gray-50 border-t text-center">
-        <p className="text-[10px] text-gray-400 font-medium">LTS BibleConnect v2.5</p>
+        <p className="text-[10px] text-gray-400 font-medium">LTS -Pentauco</p>
       </div>
     </aside>
   );
